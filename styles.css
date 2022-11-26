@@ -1,0 +1,34 @@
+.navbar {
+  overflow: hidden;
+  background-color: #333333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+}
+
+.navbar a {
+  float: right;
+  display: block;
+  padding: 15px 10px 10px;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #ff0099;
+
+}
+
+#header {
+  font-size: 40px;
+  font: bolder;
+  padding: 0 10%;
+  margin: auto;
+  width: fit-content;
+
+}
+
+#separator {
+  margin: 50px auto;
+  width: fit-content;
+
+}
